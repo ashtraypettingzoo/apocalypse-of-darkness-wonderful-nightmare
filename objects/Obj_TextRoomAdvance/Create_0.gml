@@ -1,0 +1,1 @@
+audio_play_sound(Bgm_Intermission, 10, true);
